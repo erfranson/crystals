@@ -1,0 +1,63 @@
+body{
+	background: url(images/pow-star.png);
+}
+.heading{
+	color:#fff; 
+}
+.heading h1{
+	display: inline-block;
+	background-color: #d8980d;
+}
+.rules{
+	background-color: tan;
+	width: 400px;
+	height: 300px;
+	margin-bottom: 15px;
+	color: green;
+}
+#randomNum{
+	float:left;
+	width: 100px;
+	height: 100px;
+	margin: 0 10px 10px 0;
+	background-color: #41f486;
+	color: #fff;
+	font-size: 25px;
+}
+
+.col-md-12{
+	padding: 0;
+}
+#randomNum{
+	padding:30px;
+}
+.win-lose{
+	float: left;
+	background-color: #42f1f4;
+	height: 100px;
+	margin: 0 0 10px 0;
+	padding: 30px;
+
+}
+.crystal{
+	width: 50px;
+	height: 50px;
+}
+.total{
+	background-color: #2ead7c;
+	width: 200px;
+	color: #fff;
+}
+.score{
+	background-color: #2ead7c;
+	width: 200px;
+	height: 100px;
+	color: #fff;
+	font-size: 25px;
+}
+button{
+	margin-bottom: 10px;
+}
+p{
+	padding: 2px 10px;
+}
